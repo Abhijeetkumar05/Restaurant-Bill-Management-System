@@ -47,6 +47,6 @@ python restaurant_bill_management_system.py
 
 9. To exit the application, click on the "Exit" button.
 
-## Screenshots
+
 
     
